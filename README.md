@@ -12,7 +12,7 @@ Explore o universo dos Luas Superiores com informações detalhadas sobre os 6 d
 
 ## Como Acessar 🌐
 
-1. Visite [aqui](https://eusoujao.github.io/Chat_App/) em seu navegador.
+1. Visite [aqui](https://eusoujao.github.io/site-informativo/) em seu navegador.
 2. Explore os botões para saber mais sobre cada Luas Superiores.
 
 ## Contribuição 💡
